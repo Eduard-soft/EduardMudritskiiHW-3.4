@@ -7,15 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		23E0726F27A721310093A990 /* EduardMudritskiiHW_3_4App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E0726E27A721310093A990 /* EduardMudritskiiHW_3_4App.swift */; };
+		23D45F7927A99E5E0068D289 /* GameSliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23D45F7827A99E5E0068D289 /* GameSliderView.swift */; };
+		23E0726F27A721310093A990 /* EduardMudritskiiHW3.4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E0726E27A721310093A990 /* EduardMudritskiiHW3.4.swift */; };
 		23E0727127A721310093A990 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E0727027A721310093A990 /* ContentView.swift */; };
 		23E0727327A7213E0093A990 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23E0727227A7213E0093A990 /* Assets.xcassets */; };
 		23E0727627A7213E0093A990 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23E0727527A7213E0093A990 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		23D45F7827A99E5E0068D289 /* GameSliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameSliderView.swift; sourceTree = "<group>"; };
 		23E0726B27A721310093A990 /* EduardMudritskiiHW 3.4.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "EduardMudritskiiHW 3.4.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		23E0726E27A721310093A990 /* EduardMudritskiiHW_3_4App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EduardMudritskiiHW_3_4App.swift; sourceTree = "<group>"; };
+		23E0726E27A721310093A990 /* EduardMudritskiiHW3.4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EduardMudritskiiHW3.4.swift; sourceTree = "<group>"; };
 		23E0727027A721310093A990 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		23E0727227A7213E0093A990 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23E0727527A7213E0093A990 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -51,8 +53,9 @@
 		23E0726D27A721310093A990 /* EduardMudritskiiHW 3.4 */ = {
 			isa = PBXGroup;
 			children = (
-				23E0726E27A721310093A990 /* EduardMudritskiiHW_3_4App.swift */,
+				23E0726E27A721310093A990 /* EduardMudritskiiHW3.4.swift */,
 				23E0727027A721310093A990 /* ContentView.swift */,
+				23D45F7827A99E5E0068D289 /* GameSliderView.swift */,
 				23E0727227A7213E0093A990 /* Assets.xcassets */,
 				23E0727427A7213E0093A990 /* Preview Content */,
 			);
@@ -138,7 +141,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				23E0727127A721310093A990 /* ContentView.swift in Sources */,
-				23E0726F27A721310093A990 /* EduardMudritskiiHW_3_4App.swift in Sources */,
+				23E0726F27A721310093A990 /* EduardMudritskiiHW3.4.swift in Sources */,
+				23D45F7927A99E5E0068D289 /* GameSliderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
